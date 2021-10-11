@@ -3,8 +3,8 @@
 - Sou graduando em Engenharia de Computação pela Universidade Federal de Sergipe (UFS)
 <div>
   <a href="https://github.com/IvoCarregosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvoCarregosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoCarregosa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IvoCarregosa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoCarregosa&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
