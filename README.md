@@ -1,4 +1,4 @@
-
+![](https://visitor-badge.glitch.me/badge?page_id=IvoCarregosa.IvoCarregosa)
 <h1 align = "center"> Oi! Eu sou o Ivo Carregosa.</h1>
 
   <ul>
