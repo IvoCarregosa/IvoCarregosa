@@ -2,8 +2,8 @@
 <h1 align = "center"> Oi! Eu sou o Ivo Carregosa.</h1>
 
   <ul>
-  <li>Graduando em Engenharia de Computação pela Universidade Federal de Sergipe (UFS)</li>
-  <li>Ex-bolsista do Projeto Gauss</li>
+  <li>Graduando em Matemática Licenciatura pela Universidade Federal de Sergipe (UFS)</li>
+  <li>Estudos voltados para biblioteca manim do Python</li>
   <li>Apaixonado por Filosofia, Matemática e Tecnologia</li>
   </ul>
  
